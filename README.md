@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Hokyun  
-- I'm studying to be game programmer.  
+### 👋 Hi, I’m Hokyun  
+#### I'm studying to be game programmer.  
 
 
 #### What I leared
