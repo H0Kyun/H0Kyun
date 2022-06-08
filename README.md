@@ -1,5 +1,6 @@
-- 👋 Hi, I’m Hokyun  
-- I'm studying to be game programmer.
+👋 Hi, I’m Hokyun  
+I'm studying to be game programmer.  
+
 
 #### What I leared
 ![C++](https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=Cplusplus&logoColor=white) ![C#](https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=Csharp&logoColor=white)
